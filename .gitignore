@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Models (downloaded automatically on first run)
+models/
+
+# Personal face data: photos, face database and output images
+dataset/
+face_db.npz
+result.jpg
+*.pdf
